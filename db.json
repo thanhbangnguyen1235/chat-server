@@ -1,0 +1,171 @@
+{
+  "p1": [
+    {
+      "id": 1,
+      "content": "Drainage of Hymen, External Approach",
+      "avatar": "Ligation of hemorrhoids",
+      "isOwner": false,
+      "isText": true,
+      "video": "Implantation of other internal limb lengthening device"
+    },
+    {
+      "id": 2,
+      "content": "Drainage of Liver with Drainage Device, Percutaneous Approach",
+      "avatar": "Laparoscopic resection of transverse colon",
+      "isOwner": false,
+      "isText": false,
+      "video": "Closed [aspiration] [needle] [percutaneous] biopsy of pancreas"
+    },
+    {
+      "id": 3,
+      "content": "Supplement Left Little Finger with Synthetic Substitute, Open Approach",
+      "avatar": "Destruction of rectal lesion or tissue by cryosurgery",
+      "isOwner": false,
+      "isText": false,
+      "video": "Nonmechanical methods of resuscitation"
+    },
+    {
+      "id": 4,
+      "content": "Excision of Thoracic Sympathetic Nerve, Open Approach",
+      "avatar": "Transluminal coronary atherectomy",
+      "isOwner": true,
+      "isText": true,
+      "video": "Injection or infusion of oxazolidinone class of antibiotics"
+    },
+    {
+      "id": 5,
+      "content": "Division of Left Maxilla, Percutaneous Approach",
+      "avatar": "Other local excision or destruction of lesion of joint, hand and finger",
+      "isOwner": false,
+      "isText": true,
+      "video": "Other excision of joint, ankle"
+    } 
+  ],
+  "p2": [
+
+    {
+      "id": 6,
+      "content": "Drainage of Left Tarsal with Drainage Device, Percutaneous Approach",
+      "avatar": "Repair of cystocele",
+      "isOwner": false,
+      "isText": false,
+      "video": "Other and open repair of direct inguinal hernia"
+    },
+    {
+      "id": 7,
+      "content": "Replacement of Right Pulmonary Artery with Zooplastic Tissue, Open Approach",
+      "avatar": "Closed reduction of fracture with internal fixation, phalanges of foot",
+      "isOwner": true,
+      "isText": false,
+      "video": "Division of joint capsule, ligament, or cartilage, unspecified site"
+    },
+    {
+      "id": 8,
+      "content": "Removal of Nonautologous Tissue Substitute from Right Ulna, Open Approach",
+      "avatar": "Open reduction of fracture without internal fixation, tibia and fibula",
+      "isOwner": false,
+      "isText": true,
+      "video": "Endoscopy of large intestine through artificial stoma"
+    },
+    {
+      "id": 9,
+      "content": "Ultrasonography of Placenta",
+      "avatar": "Other repair of bladder",
+      "isOwner": false,
+      "isText": true,
+      "video": "Endarterectomy, aorta"
+    },
+    {
+      "id": 10,
+      "content": "Division of Left Orbit, Open Approach",
+      "avatar": "Electrographic monitoring",
+      "isOwner": false,
+      "isText": false,
+      "video": "Closed reduction of dislocation of unspecified site"
+    }
+  ],
+  "p3": [
+    {
+      "id": 11,
+      "content": "Insertion of Spacer into Left Ankle Joint, Percutaneous Approach",
+      "avatar": "Keratomileusis",
+      "isOwner": true,
+      "isText": true,
+      "video": "Incision of vessel, abdominal arteries"
+    },
+    {
+      "id": 12,
+      "content": "Alteration of Chest Wall with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",
+      "avatar": "Thyroid scan and radioisotope function studies",
+      "isOwner": false,
+      "isText": false,
+      "video": "Other intrathoracic anastomosis of esophagus"
+    },
+    {
+      "id": 13,
+      "content": "Beam Radiation of Soft Palate using Photons <1 MeV",
+      "avatar": "Intravenous pyelogram",
+      "isOwner": true,
+      "isText": true,
+      "video": "Repair of sympathetic nerve or ganglion"
+    },
+    {
+      "id": 14,
+      "content": "Excision of Left Acromioclavicular Joint, Percutaneous Approach, Diagnostic",
+      "avatar": "Implantation of total internal biventricular heart replacement system",
+      "isOwner": true,
+      "isText": false,
+      "video": "Manual exploration of uterine cavity, postpartum"
+    },
+    {
+      "id": 15,
+      "content": "Revision of Synthetic Substitute in Left Tympanic Membrane, Via Natural or Artificial Opening",
+      "avatar": "Suture of artery",
+      "isOwner": false,
+      "isText": false,
+      "video": "Other reconstruction of conjunctival cul-de-sac"
+    }
+  ],
+  "p4": [
+    {
+      "id": 16,
+      "content": "Change Other Device in Chest Wall, External Approach",
+      "avatar": "Microscopic examination of specimen from endocrine gland, not elsewhere classified, toxicology",
+      "isOwner": true,
+      "isText": false,
+      "video": "Other bunionectomy"
+    },
+    {
+      "id": 17,
+      "content": "Replacement of Right External Iliac Artery with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+      "avatar": "Removal of implanted devices from bone, femur",
+      "isOwner": false,
+      "isText": true,
+      "video": "Marsupialization of ovarian cyst"
+    },
+    {
+      "id": 18,
+      "content": "Supplement Left Metacarpophalangeal Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+      "avatar": "Irrigation of gastrostomy or enterostomy",
+      "isOwner": true,
+      "isText": true,
+      "video": "Training in use of lead dog for the blind"
+    },
+    {
+      "id": 19,
+      "content": "Insertion of Radioactive Element into Neck, Percutaneous Approach",
+      "avatar": "Other total reconstruction of breast",
+      "isOwner": true,
+      "isText": true,
+      "video": "Closed [percutaneous] [needle] biopsy of adrenal gland"
+    },
+    {
+      "id": 20,
+      "content": "Therapeutic Exercise Treatment of Respiratory System - Head and Neck using Aerobic Endurance and Conditioning Equipment",
+      "avatar": "Removal of electronic bladder stimulator",
+      "isOwner": true,
+      "isText": false,
+      "video": "Vaccination against tuberculosis"
+    }
+  ]
+}
